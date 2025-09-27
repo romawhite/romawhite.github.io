@@ -1,5 +1,5 @@
 
-# (Roma) Luoma's Academic Pages
+<h1 align="center"> (Roma) Luoma's Academic Pages </h1>
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
