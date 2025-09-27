@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Roma White"
+title                    : "Roma White (宛羅馬)"
 title_separator          : "-"
-name                     : &name "Loma WAN"
+name                     : &name "Loma WAN (宛羅馬)"
 description              : &description "personal description"
 url                      : https://romawhite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Luoma WAN"
-  pronouns         : # example: "she/her"  
+  pronouns         : he/his # example: "she/her"  
   bio              : "Ph.D in Remote Sensing, Mangroves, Deep learning, Carbon neutrality"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University (PolyU)"
+  employer         : "The HK Polytechnic University (PolyU)"
   uri              : # URL
   email            : "luoma.wan@polyu.edu.hk" 
 
