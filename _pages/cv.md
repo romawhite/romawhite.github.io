@@ -4,7 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
+  -/cv.html
 ---
 
 {% include base_path %}
@@ -17,7 +18,10 @@ Education
 
 Work experience
 ======
-* 2021 - : Postdoctoral Fellow
+* 2025 - : Honorary lecturer
+  * The Hong Kong University (HKU)
+
+* 2021 - 2024: Postdoctoral Fellow
   * The Hong Kong Polytechnic University (PolyU)
   * Worked with : Dr. Xiaolin ZHU
 
